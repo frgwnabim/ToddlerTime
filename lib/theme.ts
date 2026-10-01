@@ -1,4 +1,4 @@
-export const THEME_STORAGE_KEY = "toddlertime-theme"
+const THEME_STORAGE_KEY = "toddlertime-theme"
 
 export type Theme = "light" | "dark"
 

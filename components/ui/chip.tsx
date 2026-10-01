@@ -5,7 +5,7 @@ import { cn } from "@/lib/utils"
 
 // Chip kategori ala YouTube. Gunakan `selected` untuk chip yang aktif.
 const chipVariants = cva(
-  "inline-flex h-10 shrink-0 items-center justify-center gap-1.5 rounded-full border-2 px-4 text-sm font-bold whitespace-nowrap transition-all duration-200 outline-none select-none focus-visible:ring-4 focus-visible:ring-ring/50 active:scale-95 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4",
+  "inline-flex h-10 shrink-0 items-center justify-center gap-1.5 rounded-full border-2 px-4 text-sm font-bold whitespace-nowrap transition-all duration-200 outline-none select-none focus-visible:ring-4 focus-visible:ring-ring active:scale-95 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4",
   {
     variants: {
       color: {

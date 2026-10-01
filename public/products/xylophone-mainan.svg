@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Xylophone Kayu Pelangi">
+  <rect width="400" height="300" fill="#e3f3fd"/>
+  <circle cx="200" cy="150" r="108" fill="#7cc6f2" opacity="0.55"/>
+  <circle cx="62" cy="60" r="18" fill="#7cc6f2" opacity="0.5"/>
+  <circle cx="345" cy="245" r="26" fill="#7cc6f2" opacity="0.4"/>
+  <circle cx="340" cy="58" r="9" fill="#1d5a85" opacity="0.18"/>
+  <circle cx="70" cy="240" r="7" fill="#1d5a85" opacity="0.18"/>
+  <svg x="125" y="75" xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 24 24" fill="none" stroke="#1d5a85" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-piano" aria-hidden="true"><path d="M10 13v4"></path><path d="M14 13v4"></path><path d="M18 13v4"></path><path d="M2 13h20"></path><path d="M22 11.5A3.5 3.5 0 0018.5 8a3.52 3.52 0 01-3.173-2A7 7 0 002 9v10a2 2 0 002 2h16a2 2 0 002-2z"></path><path d="M6 13v4"></path></svg>
+</svg>

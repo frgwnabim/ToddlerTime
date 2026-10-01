@@ -67,15 +67,18 @@
   --secondary-foreground: var(--sun-foreground);
   --accent: var(--lavender-soft);
   --accent-foreground: var(--lavender-foreground);
-  /* Terakota lembut, bukan merah terang */
-  --destructive: #c65a44;
-  --ring: var(--sky);
+  /* Terakota lembut, bukan merah terang (kontras teks >= 4.5:1) */
+  --destructive: #ad4a35;
+  /* Cincin fokus keyboard: lebih tua dari --sky supaya kontras >= 3:1 */
+  --ring: #2a78b5;
 
   --chart-1: var(--sky);
   --chart-2: var(--mint);
   --chart-3: var(--sun);
   --chart-4: var(--peach);
   --chart-5: var(--lavender);
+  /* Bar grafik satu seri: lebih jenuh dari --sky supaya kontras >= 3:1 (lolos validator dataviz). */
+  --chart-bar: #2f86c4;
 
   --sidebar: var(--background);
   --sidebar-foreground: var(--foreground);
@@ -132,6 +135,8 @@
   --accent: var(--lavender-soft);
   --accent-foreground: var(--lavender-ink);
   --destructive: #e08b74;
+  --ring: #6fb3e0;
+  --chart-bar: #3b8fd0;
 
   --sidebar-accent-foreground: var(--sky-ink);
 
@@ -178,6 +183,7 @@
   --color-chart-3: var(--chart-3);
   --color-chart-2: var(--chart-2);
   --color-chart-1: var(--chart-1);
+  --color-chart-bar: var(--chart-bar);
   --color-ring: var(--ring);
   --color-input: var(--input);
   --color-border: var(--border);
@@ -210,7 +216,7 @@
 
 @layer base {
   * {
-    @apply border-border outline-ring/50;
+    @apply border-border outline-ring;
   }
   html {
     @apply font-sans;

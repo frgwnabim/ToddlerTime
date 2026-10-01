@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Mainan Potong Buah">
+  <rect width="400" height="300" fill="#e2f7ef"/>
+  <circle cx="200" cy="150" r="108" fill="#8fdcc2" opacity="0.55"/>
+  <circle cx="62" cy="60" r="18" fill="#8fdcc2" opacity="0.5"/>
+  <circle cx="345" cy="245" r="26" fill="#8fdcc2" opacity="0.4"/>
+  <circle cx="340" cy="58" r="9" fill="#1e6b52" opacity="0.18"/>
+  <circle cx="70" cy="240" r="7" fill="#1e6b52" opacity="0.18"/>
+  <svg x="125" y="75" xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 24 24" fill="none" stroke="#1e6b52" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-apple" aria-hidden="true"><path d="M12 6.528V3a1 1 0 0 1 1-1h0"></path><path d="M18.237 21A15 15 0 0 0 22 11a6 6 0 0 0-10-4.472A6 6 0 0 0 2 11a15.1 15.1 0 0 0 3.763 10 3 3 0 0 0 3.648.648 5.5 5.5 0 0 1 5.178 0A3 3 0 0 0 18.237 21"></path></svg>
+</svg>

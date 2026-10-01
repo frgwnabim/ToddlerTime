@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Krayon Jumbo 24 Warna">
+  <rect width="400" height="300" fill="#ffe9de"/>
+  <circle cx="200" cy="150" r="108" fill="#ffb89a" opacity="0.55"/>
+  <circle cx="62" cy="60" r="18" fill="#ffb89a" opacity="0.5"/>
+  <circle cx="345" cy="245" r="26" fill="#ffb89a" opacity="0.4"/>
+  <circle cx="340" cy="58" r="9" fill="#94472a" opacity="0.18"/>
+  <circle cx="70" cy="240" r="7" fill="#94472a" opacity="0.18"/>
+  <svg x="125" y="75" xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 24 24" fill="none" stroke="#94472a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-palette" aria-hidden="true"><path d="M12 22a1 1 0 0 1 0-20 10 9 0 0 1 10 9 5 5 0 0 1-5 5h-2.25a1.75 1.75 0 0 0-1.4 2.8l.3.4a1.75 1.75 0 0 1-1.4 2.8z"></path><circle cx="13.5" cy="6.5" r=".5" fill="currentColor"></circle><circle cx="17.5" cy="10.5" r=".5" fill="currentColor"></circle><circle cx="6.5" cy="12.5" r=".5" fill="currentColor"></circle><circle cx="8.5" cy="7.5" r=".5" fill="currentColor"></circle></svg>
+</svg>

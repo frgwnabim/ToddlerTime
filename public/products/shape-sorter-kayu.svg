@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Shape Sorter Kayu">
+  <rect width="400" height="300" fill="#efeafd"/>
+  <circle cx="200" cy="150" r="108" fill="#bba8f0" opacity="0.55"/>
+  <circle cx="62" cy="60" r="18" fill="#bba8f0" opacity="0.5"/>
+  <circle cx="345" cy="245" r="26" fill="#bba8f0" opacity="0.4"/>
+  <circle cx="340" cy="58" r="9" fill="#5a45a8" opacity="0.18"/>
+  <circle cx="70" cy="240" r="7" fill="#5a45a8" opacity="0.18"/>
+  <svg x="125" y="75" xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 24 24" fill="none" stroke="#5a45a8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-shapes" aria-hidden="true"><path d="M8.3 10a.7.7 0 0 1-.626-1.079L11.4 3a.7.7 0 0 1 1.198-.043L16.3 8.9a.7.7 0 0 1-.572 1.1Z"></path><rect x="3" y="14" width="7" height="7" rx="1"></rect><circle cx="17.5" cy="17.5" r="3.5"></circle></svg>
+</svg>

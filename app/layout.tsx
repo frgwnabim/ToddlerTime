@@ -1,8 +1,12 @@
 import type { Metadata, Viewport } from "next"
 import { Baloo_2, Nunito } from "next/font/google"
 
-import { cn } from "@/lib/utils"
+import { AppShell } from "@/components/layout/app-shell"
+import type { ShellChannel } from "@/components/layout/nav-items"
+import { getChannels } from "@/lib/data"
+import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/lib/site"
 import { themeInitScript } from "@/lib/theme"
+import { cn } from "@/lib/utils"
 import "./globals.css"
 
 const nunito = Nunito({
@@ -16,12 +20,22 @@ const baloo = Baloo_2({
 })
 
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
   title: {
-    default: "ToddlerTime",
+    default: "ToddlerTime: tontonan ceria untuk balita",
     template: "%s · ToddlerTime",
   },
-  description:
-    "ToddlerTime: tontonan aman dan ceria untuk anak balita, lengkap dengan kontrol orang tua.",
+  description: SITE_DESCRIPTION,
+  applicationName: SITE_NAME,
+  keywords: ["video anak", "balita", "lagu anak", "YouTube Kids", "kontrol orang tua", "tontonan edukasi"],
+  openGraph: {
+    type: "website",
+    locale: "id_ID",
+    siteName: SITE_NAME,
+    title: "ToddlerTime: tontonan ceria untuk balita",
+    description: SITE_DESCRIPTION,
+  },
+  twitter: { card: "summary_large_image" },
 }
 
 export const viewport: Viewport = {
@@ -32,6 +46,11 @@ export const viewport: Viewport = {
 }
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
+  // Channel di sidebar: paling banyak subscriber lebih dulu.
+  const channels: ShellChannel[] = [...getChannels()]
+    .sort((a, b) => b.baseSubscribers - a.baseSubscribers)
+    .map(({ id, handle, name, avatarUrl }) => ({ id, handle, name, avatarUrl }))
+
   return (
     <html
       lang="id"
@@ -41,7 +60,9 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeInitScript }} />
       </head>
-      <body className="flex min-h-full flex-col">{children}</body>
+      <body className="flex min-h-full flex-col">
+        <AppShell channels={channels}>{children}</AppShell>
+      </body>
     </html>
   )
 }

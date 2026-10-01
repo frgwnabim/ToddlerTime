@@ -1,0 +1,262 @@
+[
+  {
+    "id": "buku-cerita-hewan",
+    "name": "Buku Cerita Hewan Bergambar",
+    "description": "Buku board tebal dengan gambar hewan lucu, tahan sobek untuk tangan mungil.",
+    "priceIdr": 65000,
+    "imageUrl": "/products/buku-cerita-hewan.svg",
+    "category": "hewan",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=buku+cerita+hewan+anak",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=buku%20cerita%20hewan%20anak"
+  },
+  {
+    "id": "boneka-jari-hewan",
+    "name": "Boneka Jari Hewan (10 pcs)",
+    "description": "Boneka jari kain berbentuk hewan untuk bercerita dan bermain peran.",
+    "priceIdr": 49000,
+    "imageUrl": "/products/boneka-jari-hewan.svg",
+    "category": "hewan",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=boneka+jari+hewan",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=boneka%20jari%20hewan"
+  },
+  {
+    "id": "puzzle-kayu-hewan",
+    "name": "Puzzle Kayu Hewan",
+    "description": "Puzzle kayu dengan pegangan besar, kenalkan nama dan bentuk hewan.",
+    "priceIdr": 55000,
+    "imageUrl": "/products/puzzle-kayu-hewan.svg",
+    "category": "hewan",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=puzzle+kayu+hewan+anak",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=puzzle%20kayu%20hewan%20anak"
+  },
+  {
+    "id": "krayon-jumbo",
+    "name": "Krayon Jumbo 24 Warna",
+    "description": "Krayon besar yang mudah digenggam, aman dan tidak beracun.",
+    "priceIdr": 45000,
+    "imageUrl": "/products/krayon-jumbo.svg",
+    "category": "menggambar-mewarnai",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=krayon+jumbo+anak",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=krayon%20jumbo%20anak"
+  },
+  {
+    "id": "buku-mewarnai-balita",
+    "name": "Buku Mewarnai Balita",
+    "description": "Gambar besar dengan garis tebal, pas untuk latihan mewarnai pertama.",
+    "priceIdr": 25000,
+    "imageUrl": "/products/buku-mewarnai-balita.svg",
+    "category": "menggambar-mewarnai",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=buku+mewarnai+balita",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=buku%20mewarnai%20balita"
+  },
+  {
+    "id": "papan-gambar-magnetik",
+    "name": "Papan Gambar Magnetik",
+    "description": "Gambar, hapus, gambar lagi. Tanpa tinta dan tanpa kotor.",
+    "priceIdr": 89000,
+    "imageUrl": "/products/papan-gambar-magnetik.svg",
+    "category": "menggambar-mewarnai",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=papan+gambar+magnetik+anak",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=papan%20gambar%20magnetik%20anak"
+  },
+  {
+    "id": "cat-air-anak",
+    "name": "Set Cat Air Anak + Kuas",
+    "description": "Cat air warna cerah dengan kuas besar untuk eksplorasi warna.",
+    "priceIdr": 39000,
+    "imageUrl": "/products/cat-air-anak.svg",
+    "category": "menggambar-mewarnai",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=cat+air+anak+set+kuas",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=cat%20air%20anak%20set%20kuas"
+  },
+  {
+    "id": "xylophone-mainan",
+    "name": "Xylophone Kayu Pelangi",
+    "description": "Alat musik ketuk warna-warni untuk mengenal nada.",
+    "priceIdr": 79000,
+    "imageUrl": "/products/xylophone-mainan.svg",
+    "category": "musik-lagu",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=xylophone+kayu+anak",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=xylophone%20kayu%20anak"
+  },
+  {
+    "id": "drum-mainan",
+    "name": "Drum Mainan Anak",
+    "description": "Drum kecil dengan stik empuk, suaranya tidak terlalu keras.",
+    "priceIdr": 95000,
+    "imageUrl": "/products/drum-mainan.svg",
+    "category": "musik-lagu",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=drum+mainan+anak",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=drum%20mainan%20anak"
+  },
+  {
+    "id": "mikrofon-karaoke-anak",
+    "name": "Mikrofon Karaoke Anak",
+    "description": "Mikrofon dengan pengeras suara mini untuk bernyanyi bersama.",
+    "priceIdr": 69000,
+    "imageUrl": "/products/mikrofon-karaoke-anak.svg",
+    "category": "musik-lagu",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=mikrofon+karaoke+anak",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=mikrofon%20karaoke%20anak"
+  },
+  {
+    "id": "kaca-pembesar-anak",
+    "name": "Kaca Pembesar Anak",
+    "description": "Kaca pembesar plastik aman untuk menjelajah daun dan serangga.",
+    "priceIdr": 29000,
+    "imageUrl": "/products/kaca-pembesar-anak.svg",
+    "category": "alam",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=kaca+pembesar+anak",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=kaca%20pembesar%20anak"
+  },
+  {
+    "id": "set-berkebun-mini",
+    "name": "Set Berkebun Mini",
+    "description": "Sekop, garu, dan pot kecil untuk menanam bersama.",
+    "priceIdr": 59000,
+    "imageUrl": "/products/set-berkebun-mini.svg",
+    "category": "alam",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=set+berkebun+anak",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=set%20berkebun%20anak"
+  },
+  {
+    "id": "buku-stiker-alam",
+    "name": "Buku Stiker Alam",
+    "description": "Stiker bunga, pohon, dan awan yang bisa ditempel ulang.",
+    "priceIdr": 35000,
+    "imageUrl": "/products/buku-stiker-alam.svg",
+    "category": "alam",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=buku+stiker+anak+alam",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=buku%20stiker%20anak%20alam"
+  },
+  {
+    "id": "mobil-tarik-mundur",
+    "name": "Mobil-mobilan Tarik Mundur",
+    "description": "Tarik ke belakang, lepas, dan mobil melaju sendiri.",
+    "priceIdr": 35000,
+    "imageUrl": "/products/mobil-tarik-mundur.svg",
+    "category": "kendaraan",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=mainan+mobil+tarik+mundur",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=mainan%20mobil%20tarik%20mundur"
+  },
+  {
+    "id": "set-kereta-api-mainan",
+    "name": "Set Kereta Api Mainan",
+    "description": "Kereta dan rel yang bisa disusun sendiri.",
+    "priceIdr": 120000,
+    "imageUrl": "/products/set-kereta-api-mainan.svg",
+    "category": "kendaraan",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=mainan+kereta+api+anak",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=mainan%20kereta%20api%20anak"
+  },
+  {
+    "id": "truk-konstruksi-mainan",
+    "name": "Truk Konstruksi Mainan",
+    "description": "Truk sampah, ekskavator, dan molen ukuran genggam.",
+    "priceIdr": 75000,
+    "imageUrl": "/products/truk-konstruksi-mainan.svg",
+    "category": "kendaraan",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=mainan+truk+konstruksi+anak",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=mainan%20truk%20konstruksi%20anak"
+  },
+  {
+    "id": "bus-sekolah-mainan",
+    "name": "Bus Sekolah Mainan",
+    "description": "Bus kuning dengan pintu yang bisa dibuka tutup.",
+    "priceIdr": 49000,
+    "imageUrl": "/products/bus-sekolah-mainan.svg",
+    "category": "kendaraan",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=mainan+bus+sekolah",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=mainan%20bus%20sekolah"
+  },
+  {
+    "id": "balok-susun-kayu",
+    "name": "Balok Susun Kayu",
+    "description": "Balok warna-warni untuk menyusun menara dan rumah.",
+    "priceIdr": 85000,
+    "imageUrl": "/products/balok-susun-kayu.svg",
+    "category": "bermain",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=balok+susun+kayu+anak",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=balok%20susun%20kayu%20anak"
+  },
+  {
+    "id": "bola-sensorik",
+    "name": "Bola Sensorik (6 pcs)",
+    "description": "Bola bertekstur lembut untuk melatih indra peraba.",
+    "priceIdr": 45000,
+    "imageUrl": "/products/bola-sensorik.svg",
+    "category": "bermain",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=bola+sensorik+bayi",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=bola%20sensorik%20bayi"
+  },
+  {
+    "id": "mainan-pancing-ikan",
+    "name": "Mainan Pancing Ikan Magnet",
+    "description": "Pancing ikan bermagnet untuk melatih koordinasi tangan.",
+    "priceIdr": 39000,
+    "imageUrl": "/products/mainan-pancing-ikan.svg",
+    "category": "bermain",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=mainan+pancing+ikan+magnet",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=mainan%20pancing%20ikan%20magnet"
+  },
+  {
+    "id": "set-masak-mainan",
+    "name": "Set Masak-masakan",
+    "description": "Panci, wajan, dan spatula mini untuk koki cilik.",
+    "priceIdr": 79000,
+    "imageUrl": "/products/set-masak-mainan.svg",
+    "category": "masak-masakan",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=mainan+masak+masakan+anak",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=mainan%20masak%20masakan%20anak"
+  },
+  {
+    "id": "mainan-potong-buah",
+    "name": "Mainan Potong Buah",
+    "description": "Buah dan sayur berperekat yang bisa dipotong pisau mainan.",
+    "priceIdr": 55000,
+    "imageUrl": "/products/mainan-potong-buah.svg",
+    "category": "masak-masakan",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=mainan+potong+buah",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=mainan%20potong%20buah"
+  },
+  {
+    "id": "set-teh-mainan",
+    "name": "Set Minum Teh Mainan",
+    "description": "Teko dan cangkir mini untuk pesta teh pura-pura.",
+    "priceIdr": 49000,
+    "imageUrl": "/products/set-teh-mainan.svg",
+    "category": "masak-masakan",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=mainan+tea+set+anak",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=mainan%20tea%20set%20anak"
+  },
+  {
+    "id": "shape-sorter-kayu",
+    "name": "Shape Sorter Kayu",
+    "description": "Masukkan bentuk ke lubang yang pas sambil belajar warna.",
+    "priceIdr": 65000,
+    "imageUrl": "/products/shape-sorter-kayu.svg",
+    "category": "warna-bentuk",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=shape+sorter+kayu",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=shape%20sorter%20kayu"
+  },
+  {
+    "id": "kartu-flash-warna",
+    "name": "Kartu Flash Warna & Bentuk",
+    "description": "Kartu tebal bergambar untuk mengenal warna dan bentuk.",
+    "priceIdr": 30000,
+    "imageUrl": "/products/kartu-flash-warna.svg",
+    "category": "warna-bentuk",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=flash+card+warna+bentuk+anak",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=flash%20card%20warna%20bentuk%20anak"
+  },
+  {
+    "id": "puzzle-geometri",
+    "name": "Puzzle Bentuk Geometri",
+    "description": "Lingkaran, segitiga, dan kotak dari kayu warna-warni.",
+    "priceIdr": 45000,
+    "imageUrl": "/products/puzzle-geometri.svg",
+    "category": "warna-bentuk",
+    "tokopediaUrl": "https://www.tokopedia.com/search?st=product&q=puzzle+geometri+kayu+anak",
+    "shopeeUrl": "https://shopee.co.id/search?keyword=puzzle%20geometri%20kayu%20anak"
+  }
+]

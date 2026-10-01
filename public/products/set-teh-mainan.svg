@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Set Minum Teh Mainan">
+  <rect width="400" height="300" fill="#efeafd"/>
+  <circle cx="200" cy="150" r="108" fill="#bba8f0" opacity="0.55"/>
+  <circle cx="62" cy="60" r="18" fill="#bba8f0" opacity="0.5"/>
+  <circle cx="345" cy="245" r="26" fill="#bba8f0" opacity="0.4"/>
+  <circle cx="340" cy="58" r="9" fill="#5a45a8" opacity="0.18"/>
+  <circle cx="70" cy="240" r="7" fill="#5a45a8" opacity="0.18"/>
+  <svg x="125" y="75" xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 24 24" fill="none" stroke="#5a45a8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-coffee" aria-hidden="true"><path d="M10 2v2"></path><path d="M14 2v2"></path><path d="M16 8a1 1 0 0 1 1 1v8a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V9a1 1 0 0 1 1-1h14a4 4 0 1 1 0 8h-1"></path><path d="M6 2v2"></path></svg>
+</svg>
